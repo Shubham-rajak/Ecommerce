@@ -3,37 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>BookwormDenn Clone - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      max-width: 900px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    ul {
-      list-style: disc;
-      padding-left: 2rem;
-    }
-    code {
-      background: #eee;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background: #eee;
-      padding: 1rem;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-  </style>
 </head>
 <body>
 
