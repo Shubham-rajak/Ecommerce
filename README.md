@@ -18,9 +18,9 @@
   <ul>
     <li>React.js</li>
     <li>Tailwind CSS</li>
-    <li>Material UI (MUI)</li>
     <li>Vite</li>
     <li>Axios</li>
+    <li>Context API</li>
   </ul>
 
   <h3>Backend</h3>
