@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide div{
+    display: flex !important;
+}
+.slick-slide div{
+    margin: 7px;
+}
+
+.active div{
+    color:black;
+    background-color:#fff;
+    /* padding: 6px; */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #fff;
+}
+
+.active{
+    color:black;
+    background-color:#fff;
+    /* padding: 5px; */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #fff;
+  
+}
+/* Hide the number input spinner in most browsers */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield; /* Firefox */
+  appearance: textfield; /* For other browsers */
+}
+
+iframe {
+  cursor: crosshair; /* Changes cursor to a cross when hovering over the iframe */
+}
